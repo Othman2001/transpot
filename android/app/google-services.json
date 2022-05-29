@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288228696072",
+    "project_id": "transpot-7e2bf",
+    "storage_bucket": "transpot-7e2bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288228696072:android:f1c3fe106cb1392dec31bd",
+        "android_client_info": {
+          "package_name": "transpot.example.transpot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288228696072-ibcbc8j5hvk4usmcvkrnbidi03cpbcqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8ouG6DHqKcBayUzndcNoI4AsRHm4xWS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288228696072-ibcbc8j5hvk4usmcvkrnbidi03cpbcqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
